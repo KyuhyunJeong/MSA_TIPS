@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530056781587.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D8B2C05",
+    "lastKnownWriteTime" : 1530057197,
+    "last_content_update" : 1530057197223,
+    "path" : "~/GitHub/MSA_TIPS/readTIPS.r",
+    "project_path" : "readTIPS.r",
+    "properties" : {
+        "cursorPosition" : "5,67",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
